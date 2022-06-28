@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leah!
-- 👀 I’m interested in butterfly population genetics
+- 🐛🦋 I’m interested in butterfly population genetics
 - 🌱 I’m currently learning analysis of ddrad SNP data and ENMs
-- 💞️ I’m looking to collaborate on machine learning for ENMs and 
+- 🕸 I’m looking to collaborate on machine learning for ENMs 
 - 📫 How to reach me: lgjackso@ualberta.ca
 
 <!---
